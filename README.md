@@ -4,6 +4,9 @@
 
 <h2>Programming Projects:</h2>
 
+- <b>Python</b>
+  - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
+
 <h2>Vulnerability/Risk Managment Projects:</h2>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
