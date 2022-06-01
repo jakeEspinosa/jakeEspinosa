@@ -12,7 +12,12 @@
 - [CompTIA A+](https://imgur.com/UiYtFQE)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://imgur.com/CjBH7ME)
 - [ITILv4 Foundations](https://imgur.com/A7wD6qm)
-<h2>Connect with me:</h2>
+
+<h2>Vulnerability/Risk Managment Projects:</h2>
+
+- [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
+
+<h2>Connect With Me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
