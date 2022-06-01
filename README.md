@@ -10,6 +10,7 @@
 - [CompTIA Security+ (Sec+)](https://imgur.com/vt1CmaG)
 - [CompTIA Cloud Essentials+](https://imgur.com/GkERQRO)
 - [CompTIA A+](https://imgur.com/UiYtFQE)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://imgur.com/CjBH7ME)
 - [ITIL Foundations v4](https://imgur.com/A7wD6qm)
 <h2>Connect with me:</h2>
 
