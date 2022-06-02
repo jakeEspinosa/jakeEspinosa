@@ -1,4 +1,4 @@
-<h1>Hey, I'm Jake!<br/><a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and <a href="https://github.com/jakeEspinosa">Programmer</a></h1>
+<h1>Hey, I'm Jake!<br/><a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and <a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
 
 <h2>Cloud Computing Projects:</h2>
 
