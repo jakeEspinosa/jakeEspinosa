@@ -6,6 +6,7 @@
 
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
+  - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissors)
 
 <h2>Vulnerability/Risk Managment Projects:</h2>
 
