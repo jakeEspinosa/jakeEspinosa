@@ -8,6 +8,9 @@
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissors)
 
+- <b>Bash</b>
+  - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
+
 <h2>Vulnerability/Risk Managment Projects:</h2>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
