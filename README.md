@@ -8,6 +8,7 @@
 
 - <b>Bash</b>
   - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
+  - [Your Most Commonly Used Bash Commands](https://github.com/jakeEspinosa/bashCommandHistory)
 
 <h2>Vulnerability/Risk Managment Projects:</h2>
 
