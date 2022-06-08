@@ -13,6 +13,10 @@
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
 
+<h2>Resume</h2>
+
+- [View My Most Recent Resume](https://github.com/jakeEspinosa/resume)
+
 <h2>Certifications:</h2>
 
 - [CompTIA Cybersecurity Analyst+ (CySA+)](https://imgur.com/YNcFHPs)
