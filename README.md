@@ -5,6 +5,9 @@
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissors)
+  
+- <b>Java</b>
+  - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
 
 - <b>Bash</b>
   - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
