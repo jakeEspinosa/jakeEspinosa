@@ -23,6 +23,7 @@
 
 <h2>Certifications:</h2>
 
+- [Certified Ethical Hacker](https://imgur.com/a/rmBDb7J)
 - [CompTIA Cybersecurity Analyst+ (CySA+)](https://imgur.com/YNcFHPs)
 - [CompTIA Security+ (Sec+)](https://imgur.com/vt1CmaG)
 - [CompTIA Cloud Essentials+](https://imgur.com/GkERQRO)
