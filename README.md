@@ -13,7 +13,7 @@
   - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
   - [Your Most Commonly Used Bash Commands](https://github.com/jakeEspinosa/bashCommandHistory)
 
-<h2>Vulnerability/Risk Managment Projects:</h2>
+<h2>Vulnerability/Risk Management Projects:</h2>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
 
