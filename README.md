@@ -1,4 +1,8 @@
-<h1>Hey, I'm Jake!<br/><a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and <a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
+<h1>Hey, I'm Jake!<br/>
+<a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a>,
+Cloud Engineer,
+and 
+<a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
 
 <h2>Programming Projects:</h2>
 
@@ -9,9 +13,16 @@
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
 
+- <b>PowerShell</b>
+  - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
+
 - <b>Bash</b>
   - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
   - [Your Most Commonly Used Bash Commands](https://github.com/jakeEspinosa/bashCommandHistory)
+  
+<h2>Cloud Engineering Projects:</h2>
+
+- [Azure Resource Manager Template Deployer Tool](https://github.com/jakeEspinosa/armtd)
 
 <h2>Vulnerability/Risk Management Projects:</h2>
 
