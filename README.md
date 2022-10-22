@@ -6,6 +6,9 @@ and
 
 <h2>Programming Projects:</h2>
 
+- <b>Web Development</b>
+  - [Landing Page](https://github.com/jakeEspinosa/landingPage)
+
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissors)
