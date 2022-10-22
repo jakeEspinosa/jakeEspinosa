@@ -1,8 +1,7 @@
 <h1>Hey, I'm Jake!<br/>
 <a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a>,
-Cloud Engineer,
-and 
-<a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
+<a href="https://github.com/jakeEspinosa">Programmer</a>,
+and Cloud Engineer.</h1>
 
 <h2>Programming Projects:</h2>
 
