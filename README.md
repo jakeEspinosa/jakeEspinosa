@@ -8,19 +8,18 @@ and Cloud Engineer.</h1>
 - <b>Web Development</b>
   - [Landing Page](https://github.com/jakeEspinosa/landingPage)
 
+- <b>JavaScript</b>
+  - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
+
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
-  - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissors)
+
   
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
 
 - <b>PowerShell</b>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
-
-- <b>Bash</b>
-  - [Linux Auto Configuration](https://github.com/jakeEspinosa/ubuntuStartupScript)
-  - [Your Most Commonly Used Bash Commands](https://github.com/jakeEspinosa/bashCommandHistory)
   
 <h2>Cloud Engineering Projects:</h2>
 
