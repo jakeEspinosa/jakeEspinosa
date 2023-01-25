@@ -21,7 +21,7 @@ and Cloud Engineer.</h1>
 - <b>PowerShell (Scripts)</b>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
   
-<h2>Cloud Engineering Projects:</h2>
+<h2>☁️ Cloud Engineering Projects:</h2>
 
 - [AWS Web Hosting (S3, EC2, Elastic Beanstalk)](https://github.com/jakeEspinosa/awsWebHosting)
 
