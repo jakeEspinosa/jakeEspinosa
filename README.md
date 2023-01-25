@@ -11,14 +11,14 @@ and Cloud Engineer.</h1>
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
   - [Landing Page](https://github.com/jakeEspinosa/landingPage)
 
-- <b>Python</b>
+- <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
   - [Athan for Raspberry Pi](https://github.com/jakeEspinosa/athan.py)
 
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
 
-- <b>PowerShell</b>
+- <b>PowerShell (Scripts)</b>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
   
 <h2>Cloud Engineering Projects:</h2>
