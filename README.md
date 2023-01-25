@@ -26,10 +26,6 @@ and Cloud Engineer.</h1>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
 
-<h2>Resume</h2>
-
-- [View My Most Recent Resume](https://github.com/jakeEspinosa/resume)
-
 <h2>Certifications:</h2>
 
 - [Certified Ethical Hacker](https://imgur.com/a/rmBDb7J)
@@ -42,6 +38,6 @@ and Cloud Engineer.</h1>
 
 <h2>Connect With Me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JakeEspinosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jake-espinosa
