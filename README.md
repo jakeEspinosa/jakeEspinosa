@@ -25,11 +25,11 @@ and Cloud Engineer.</h1>
 
 - [AWS Web Hosting (S3, EC2, Elastic Beanstalk)](https://github.com/jakeEspinosa/awsWebHosting)
 
-<h2>Vulnerability/Risk Management Projects:</h2>
+<h2>⚠️ Vulnerability/Risk Management Projects:</h2>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
 
-<h2>Certifications:</h2>
+<h2>📒 Certifications:</h2>
 
 - [Certified Ethical Hacker](https://imgur.com/a/rmBDb7J)
 - [CompTIA Cybersecurity Analyst+ (CySA+)](https://imgur.com/YNcFHPs)
@@ -39,7 +39,7 @@ and Cloud Engineer.</h1>
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://imgur.com/CjBH7ME)
 - [ITILv4 Foundations](https://imgur.com/A7wD6qm)
 
-<h2>Connect With Me:</h2>
+<h2>🤝 Connect With Me:</h2>
 
 [<img align="left" alt="JakeEspinosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JakeEspnosa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
