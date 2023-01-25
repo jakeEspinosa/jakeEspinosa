@@ -6,11 +6,14 @@ and Cloud Engineer.</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front End</b>
+  - [Calculator](https://github.com/jakeEspinosa/calculator)
+  - [Etch-a-Sketch](https://github.com/jakeEspinosa/etchASketch)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
   - [Landing Page](https://github.com/jakeEspinosa/landingPage)
 
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
+  - [Athan for Raspberry Pi](https://github.com/jakeEspinosa/athan.py)
 
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
