@@ -5,7 +5,7 @@ and Cloud Engineer.</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Front End</b>
+- <b>Front End (HTML, Vanilla CSS, and Vanilla JS)</b>
   - [Calculator](https://github.com/jakeEspinosa/calculator)
   - [Etch-a-Sketch](https://github.com/jakeEspinosa/etchASketch)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
