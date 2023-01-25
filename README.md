@@ -3,18 +3,15 @@
 <a href="https://github.com/jakeEspinosa">Programmer</a>,
 and Cloud Engineer.</h1>
 
-<h2>Programming Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Web Development</b>
-  - [Landing Page](https://github.com/jakeEspinosa/landingPage)
-
-- <b>JavaScript</b>
+- <b>Front End</b>
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
+  - [Landing Page](https://github.com/jakeEspinosa/landingPage)
 
 - <b>Python</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
 
-  
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
 
@@ -22,8 +19,7 @@ and Cloud Engineer.</h1>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
   
 <h2>Cloud Engineering Projects:</h2>
-
-- [Azure Resource Manager Template Deployer Tool](https://github.com/jakeEspinosa/armtd)
+- [AWS Web Hosting (S3, EC2, Elastic Beanstalk)](https://github.com/jakeEspinosa/awsWebHosting)
 
 <h2>Vulnerability/Risk Management Projects:</h2>
 
