@@ -19,6 +19,7 @@ and Cloud Engineer.</h1>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
   
 <h2>Cloud Engineering Projects:</h2>
+
 - [AWS Web Hosting (S3, EC2, Elastic Beanstalk)](https://github.com/jakeEspinosa/awsWebHosting)
 
 <h2>Vulnerability/Risk Management Projects:</h2>
