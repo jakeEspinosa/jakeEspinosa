@@ -42,5 +42,7 @@ and Cloud Engineer.</h1>
 <h2>Connect With Me:</h2>
 
 [<img align="left" alt="JakeEspinosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JakeEspnosa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/jake-espinosa
+[youtube]: https://www.youtube.com/channel/UCM24A-2xJx1P6Bg46S9uR_g
