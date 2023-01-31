@@ -9,7 +9,6 @@ and Cloud Engineer.</h1>
   - [Calculator](https://github.com/jakeEspinosa/calculator)
   - [Etch-a-Sketch](https://github.com/jakeEspinosa/etchASketch)
   - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
-  - [Landing Page](https://github.com/jakeEspinosa/landingPage)
 
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
