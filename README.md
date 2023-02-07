@@ -12,7 +12,6 @@ and Cloud Engineer.</h1>
 
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
-  - [Athan for Raspberry Pi](https://github.com/jakeEspinosa/athan.py)
 
 - <b>Java</b>
   - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
