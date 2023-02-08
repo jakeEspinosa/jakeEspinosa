@@ -27,6 +27,10 @@ and Cloud Engineer.</h1>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
 
+<h2>View My Most Recent Resume:</h2>
+
+- [Resume](https://github.com/jakeEspinosa/resume)
+
 <h2>📒 Certifications:</h2>
 
 - [Certified Ethical Hacker](https://imgur.com/a/rmBDb7J)
