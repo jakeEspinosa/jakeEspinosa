@@ -33,6 +33,7 @@ and Cloud Engineer.</h1>
 
 <h2>📒 Certifications:</h2>
 
+- [AWS Solutions Architect Associate](https://imgur.com/a/Tggmb5g)
 - [Certified Ethical Hacker](https://imgur.com/a/rmBDb7J)
 - [CompTIA Cybersecurity Analyst+ (CySA+)](https://imgur.com/YNcFHPs)
 - [CompTIA Security+ (Sec+)](https://imgur.com/vt1CmaG)
