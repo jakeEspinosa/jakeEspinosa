@@ -14,7 +14,7 @@ and Cloud Engineer.</h1>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
 
 - <b>Java</b>
-  - [CLI Calculator](https://github.com/jakeEspinosa/cliCalculator)
+  - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
 
 - <b>PowerShell (Scripts)</b>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
