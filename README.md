@@ -5,6 +5,9 @@ and Cloud Engineer.</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Data Structures and Algorithms</b>
+  - [Data Structures](https://github.com/jakeEspinosa/dataStructures)
+
 - <b>Front End (HTML, Vanilla CSS, and Vanilla JS)</b>
   - [Calculator](https://github.com/jakeEspinosa/calculator)
   - [Etch-a-Sketch](https://github.com/jakeEspinosa/etchASketch)
