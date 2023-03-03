@@ -6,8 +6,8 @@ and Cloud Engineer.</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Practicing DSA](https://github.com/jakeEspinosa/dsaPractice)
-  - [Data Structures](https://github.com/jakeEspinosa/dataStructures)
+  - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
+  - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
 
 - <b>Front End (HTML, Vanilla CSS, and Vanilla JS)</b>
   - [Calculator](https://github.com/jakeEspinosa/calculator)
