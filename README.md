@@ -1,13 +1,17 @@
 <h1>Hey, I'm Jake!<br/>
-<a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a>,
-<a href="https://github.com/jakeEspinosa">Programmer</a>,
-and Cloud Engineer.</h1>
+<p>
+<a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and 
+<a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
+</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
   - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
   - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
+
+- <b>Serverless Full Stack Web App (JS, Python, API Gateway, Lambda, S3, and DynamoDB)</b>
+  - [Cloud Resume Challenge](https://github.com/jakeEspinosa/cloudResumeChallenge)
 
 - <b>Front End (HTML, Vanilla CSS, and Vanilla JS)</b>
   - [Calculator](https://github.com/jakeEspinosa/calculator)
@@ -22,10 +26,6 @@ and Cloud Engineer.</h1>
 
 - <b>PowerShell (Scripts)</b>
   - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
-  
-<h2>☁️ Cloud Engineering Projects:</h2>
-
-- [AWS Web Hosting (S3, EC2, Elastic Beanstalk)](https://github.com/jakeEspinosa/awsWebHosting)
 
 <h2>⚠️ Vulnerability/Risk Management Projects:</h2>
 
