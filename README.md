@@ -10,7 +10,7 @@
   - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
   - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
 
-- <b>Internet of Things Application (React.js, Python, and 3rd-Party API)</b>
+- <b>Internet of Things (IoT) Application (React.js, Python, and 3rd-Party API)</b>
   - [Athan Speaker](https://github.com/jakeEspinosa/athan.py)
 
 - <b>Serverless Full Stack Web App (JS, Python, API Gateway, Lambda, S3, and DynamoDB)</b>
