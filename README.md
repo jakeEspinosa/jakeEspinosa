@@ -10,22 +10,17 @@
   - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
   - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
 
+- <b>Python IoT Scripts (React.js, Python, and 3rd-Party API)</b>
+  - [Athan Speaker](https://github.com/jakeEspinosa/athan.py)
+
 - <b>Serverless Full Stack Web App (JS, Python, API Gateway, Lambda, S3, and DynamoDB)</b>
   - [Cloud Resume Challenge](https://github.com/jakeEspinosa/cloudResumeChallenge)
-
-- <b>Front End (HTML, Vanilla CSS, and Vanilla JS)</b>
-  - [Calculator](https://github.com/jakeEspinosa/calculator)
-  - [Etch-a-Sketch](https://github.com/jakeEspinosa/etchASketch)
-  - [Rock Paper Scissors](https://github.com/jakeEspinosa/rockPaperScissorsJS)
 
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
 
 - <b>Java</b>
   - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
-
-- <b>PowerShell (Scripts)</b>
-  - [Azure Resource Manager Template Deployer](https://github.com/jakeEspinosa/armtd)
 
 <h2>⚠️ Vulnerability/Risk Management Projects:</h2>
 
