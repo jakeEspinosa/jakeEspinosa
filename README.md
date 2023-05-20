@@ -13,7 +13,7 @@
 - <b>Internet of Things (IoT) Application (React.js, TypeScript, Python, and 3rd-Party API)</b>
   - [Athan Speaker](https://github.com/jakeEspinosa/athan.py)
 
-- <b>Serverless Full Stack Web App (JS, Python, API Gateway, Lambda, S3, and DynamoDB)</b>
+- <b>Serverless Full Stack Web App (React.js, TypeScript, Python, API Gateway, Lambda, S3, and DynamoDB)</b>
   - [Cloud Resume Challenge](https://github.com/jakeEspinosa/cloudResumeChallenge)
 
 - <b>Python (Scripts)</b>
