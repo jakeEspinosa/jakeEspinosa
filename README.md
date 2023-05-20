@@ -19,7 +19,7 @@
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
 
-- <b>Java</b>
+- <b>Java (CLI Apps)</b>
   - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
 
 <h2>⚠️ Vulnerability/Risk Management Projects:</h2>
