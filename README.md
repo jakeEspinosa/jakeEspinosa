@@ -18,7 +18,7 @@
 - <b>Java (CLI Apps)</b>
   - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
 
-<h2>Computer Science Fundamentals</h2>
+<h2>🚀 Computer Science Fundamentals</h2>
 
 - <b>Computer Architecture</b>
   - [Simulated CPU](https://github.com/jakeEspinosa/sdcComputerArchitecture)
