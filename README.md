@@ -22,6 +22,11 @@
 - <b>Java (CLI Apps)</b>
   - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
 
+<h2>Computer Science Fundamentals</h2>
+
+- <b>Computer Architecture</b>
+  - [Simulated CPU](https://github.com/jakeEspinosa/sdcComputerArchitecture)
+
 <h2>⚠️ Vulnerability/Risk Management Projects:</h2>
 
 - [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
