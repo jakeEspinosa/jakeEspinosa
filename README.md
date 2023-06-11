@@ -6,10 +6,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms</b>
-  - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
-  - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
-
 - <b>Internet of Things (IoT) Application (React.js, TypeScript, Python, and 3rd-Party API)</b>
   - [Athan Speaker](https://github.com/jakeEspinosa/athan.py)
 
@@ -26,6 +22,10 @@
 
 - <b>Computer Architecture</b>
   - [Simulated CPU](https://github.com/jakeEspinosa/sdcComputerArchitecture)
+
+- <b>Data Structures and Algorithms</b>
+  - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
+  - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
 
 <h2>⚠️ Vulnerability/Risk Management Projects:</h2>
 
