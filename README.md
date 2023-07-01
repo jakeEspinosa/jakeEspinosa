@@ -1,7 +1,7 @@
 <h1>Hey, I'm Jake!<br/>
 <p>
   <a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and 
-  <a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
+  <a href="https://github.com/jakeEspinosa">Software Engineer</a>.</h1>
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -32,14 +32,7 @@
 - <b>Data Structures and Algorithms</b>
   - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
   - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
-
-<h2>⚠️ Vulnerability/Risk Management Projects:</h2>
-
-- [Implementing the Risk Management Framework](https://github.com/jakeEspinosa/riskManagementFramework)
-
-<h2>View My Most Recent Resume:</h2>
-
-- [Resume](https://github.com/jakeEspinosa/resume)
+  
 
 <h2>📒 Certifications:</h2>
 
