@@ -1,7 +1,7 @@
 <h1>Hey, I'm Jake!<br/>
 <p>
-<a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and 
-<a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
+  <a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and 
+  <a href="https://github.com/jakeEspinosa">Programmer</a>.</h1>
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -17,6 +17,12 @@
 
 - <b>Java (CLI Apps)</b>
   - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
+ 
+<h2>Software Development Theory</h2>
+
+- <b>Development Methodologies</b>
+
+  - [Scrum Cheat Sheet](https://github.com/jakeEspinosa/scrumCheatSheet)
 
 <h2>🚀 Computer Science Fundamentals</h2>
 
