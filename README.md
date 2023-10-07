@@ -10,9 +10,6 @@
 
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
-
-- <b>Java (CLI Apps)</b>
-  - [Compound Interest Calculator](https://github.com/jakeEspinosa/compoundInterestCalculator)
  
 <h2>Software Development Theory</h2>
 
