@@ -1,8 +1,4 @@
-<h1>Hey, I'm Jake!<br/>
-<p>
-  <a href=https://linkedin.com/in/jake-espinosa>Cybersecurity Professional</a> and 
-  <a href="https://github.com/jakeEspinosa">Software Engineer</a>.</h1>
-</p>
+<h1>Hey, I'm Jake!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
