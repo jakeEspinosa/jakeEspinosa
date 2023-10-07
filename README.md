@@ -13,9 +13,8 @@
  
 <h2>✔️ Cheat Sheets</h2>
 
-- <b>Development Methodologies</b>
-
   - [Scrum Cheat Sheet](https://github.com/jakeEspinosa/scrumCheatSheet)
+  - [Effective Writing](https://github.com/jakeEspinosa/writingCheatSheet)
   
 
 <h2>📒 Certifications:</h2>
