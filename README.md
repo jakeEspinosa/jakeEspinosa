@@ -11,7 +11,7 @@
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
  
-<h2>Software Development Theory</h2>
+<h2>Cheat Sheets</h2>
 
 - <b>Development Methodologies</b>
 
