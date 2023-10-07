@@ -10,12 +10,6 @@
 
 - <b>Python (Scripts)</b>
   - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
- 
-<h2>Cheat Sheets</h2>
-
-- <b>Development Methodologies</b>
-
-  - [Scrum Cheat Sheet](https://github.com/jakeEspinosa/scrumCheatSheet)
 
 <h2>🚀 Computer Science Fundamentals</h2>
 
@@ -25,6 +19,12 @@
 - <b>Data Structures and Algorithms</b>
   - [Practicing DSA in Python](https://github.com/jakeEspinosa/dsaPractice)
   - [Implementing Data Structures in Java](https://github.com/jakeEspinosa/dataStructures)
+ 
+<h2>✔️ Cheat Sheets</h2>
+
+- <b>Development Methodologies</b>
+
+  - [Scrum Cheat Sheet](https://github.com/jakeEspinosa/scrumCheatSheet)
   
 
 <h2>📒 Certifications:</h2>
