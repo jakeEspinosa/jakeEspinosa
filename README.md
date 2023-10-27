@@ -1,4 +1,6 @@
-<h1>Hey, I'm Jake!</h1>
+<h1>I'm Jake, <a href="https://www.linkedin.com/in/jake-espinosa/">
+  <br />
+  Software Engineer</a> and <a href="https://dev.to/jakeespinosa">Technical Blogger!</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
