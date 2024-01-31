@@ -1,5 +1,15 @@
-<h1>I'm Jake, <a href="https://www.linkedin.com/in/jake-espinosa/">
-  Software Engineer</a>.</h1>
+<h1>Hey, I'm Jake!</h1>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-espinosa/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dev.to/jakeespinosa)
+[![My Website](https://img.shields.io/badge/My_Website-gray?style=for-the-badge&color=purple)](https://www.jakeespinosa.com/)
+
+ I'm a full stack software engineer specializing in secure and responsive web development with Python, Vue.js, TypeScript, and PostgreSQL. 
+ I'm passionate about delivering accessible and secure user experiences.
+
+<h2>Tech Stack</h2>
+
+![Tech Stack is Python, Flask, Vue, TypeScript, and Postgres](https://skillicons.dev/icons?i=py,flask,vue,ts,postgres)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
