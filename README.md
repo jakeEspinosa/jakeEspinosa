@@ -20,13 +20,7 @@
   - [Cloud Resume Challenge](https://github.com/jakeEspinosa/cloudResumeChallenge)
 
 - <b>Python (Scripts)</b>
-  - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)
- 
-<h2>✔️ Cheat Sheets</h2>
-
-  - [Scrum Cheat Sheet](https://github.com/jakeEspinosa/scrumCheatSheet)
-  - [Effective Writing](https://github.com/jakeEspinosa/writingCheatSheet)
-  
+  - [VirusTotal CLI Client](https://github.com/jakeEspinosa/virusTotalCLI)  
 
 <h2>📒 Certifications:</h2>
 
