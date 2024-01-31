@@ -1,7 +1,7 @@
 <h1>Hey, I'm Jake!</h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-espinosa/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dev.to/jakeespinosa)
+[![Blogger](https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dev.to/jakeespinosa)
 [![My Website](https://img.shields.io/badge/My_Website-gray?style=for-the-badge&color=purple)](https://www.jakeespinosa.com/)
 
  I'm a full stack software engineer specializing in secure and responsive web development with Python, Vue.js, TypeScript, and PostgreSQL. 
